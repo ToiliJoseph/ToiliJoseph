@@ -76,3 +76,24 @@ I'm particularly interested in the intersection of:
 `INITIALIZING THE FUTURE...`
 
 </div>
+
+---
+
+## `> github_analytics`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ToiliJoseph&show_icons=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=164E63&hide_border=false" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToiliJoseph&layout=compact&theme=transparent&title_color=22D3EE&text_color=C9D1D9&border_color=164E63" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ToiliJoseph&theme=transparent&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&border=164E63" />
+
+</div>
+
+<div align="center">
+
+**`THINK DEEP. BUILD SMART. INNOVATE.`**
+
+</div>
+
