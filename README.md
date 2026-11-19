@@ -35,14 +35,38 @@ My goal is to move beyond simply using technology to understanding, designing an
 
 ## `> technologies`
 
-<div align="center">
 
-![Python](https://img.shields.io/badge/Python-00D9FF?style=flat-square&logo=python&logoColor=black)
-![Git](https://img.shields.io/badge/Git-00D9FF?style=flat-square&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-00D9FF?style=flat-square&logo=github&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-00D9FF?style=flat-square&logo=visualstudiocode&logoColor=black)
+<h2 align="center">
+  <code> &gt; TECHNICAL_TOOLKIT </code>
+</h2>
 
-</div>
+<h3 align="center">PROGRAMMING & DEVELOPMENT</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/VS_Code-0A192F?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE"/>
+</p>
+
+<h3 align="center">AI / MACHINE LEARNING — EXPLORING</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/PyTorch-0A192F?style=for-the-badge&logo=pytorch&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=22D3EE"/>
+</p>
+
+<h3 align="center">ENGINEERING INTERESTS</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Robotics-0A192F?style=for-the-badge&logo=robotframework&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/Automation-0A192F?style=for-the-badge&logo=probot&logoColor=22D3EE"/>
+</p>
+
 
 ## `> projects_in_progress`
 
