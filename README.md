@@ -121,3 +121,14 @@ I'm particularly interested in the intersection of:
 
 </div>
 
+---
+
+## `> contribution_activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ToiliJoseph&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+
+</div>
+
+
