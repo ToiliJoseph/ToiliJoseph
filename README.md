@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img src="toilijoseph_github-banner.png"
+       width="100%"
+       alt="Toili Joseph - Building the Future">
+</div>
 <div align="center">
 
 # TOILI JOSEPH
