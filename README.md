@@ -130,5 +130,16 @@ I'm particularly interested in the intersection of:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToiliJoseph&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
+---
+
+## `> connect_with_me`
+
+<div align="center">
+
+<a href="Ywww.linkedin.com/in/toili-joseph-13555535b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 
