@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="toilijoseph_github-banner.png"
+  <img src="toilijoseph_github_banner.png"
        width="100%"
        alt="Toili Joseph - Building the Future">
 </div>
