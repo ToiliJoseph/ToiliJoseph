@@ -141,5 +141,10 @@ I'm particularly interested in the intersection of:
 </a>
 
 </div>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ToiliJoseph&label=PROFILE+VIEWS&color=22D3EE&style=flat-square" alt="Profile views"/>
+
+</div>
 
 
